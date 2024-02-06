@@ -1,0 +1,29 @@
+{
+    "anytime" : [
+        "干啥呢，大漂亮！"
+    ],
+    "dawn" : [
+        "早呀",
+        "天马上就亮了",
+        "要不再睡会？"
+    ],
+    "morning" : [
+        "有你在旁 至感幸福"
+    ],
+    "noon" : [
+        "午休，午休"
+    ],
+    "evening" : [
+        "夜晚属于你我"
+    ],
+    "midnight" : [
+        "晚安 爱你"
+    ],
+     "rain" : [
+        "雨打梨花深闭门 雨天有你是幸福"
+    ],
+	"day_sunny": [
+			"Today is a sunny day",
+			"It's a beautiful day"
+	]
+}
